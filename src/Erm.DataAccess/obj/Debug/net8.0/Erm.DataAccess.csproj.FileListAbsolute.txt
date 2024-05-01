@@ -1,0 +1,39 @@
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/bin/Debug/net8.0/Erm.DataAccess.deps.json
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/bin/Debug/net8.0/Erm.DataAccess.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/bin/Debug/net8.0/Erm.DataAccess.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.AssemblyInfoInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.AssemblyInfo.cs
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.csproj.CoreCompileInputs.cache
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/refint/Erm.DataAccess.dll
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/Erm.DataAccess.pdb
+/Users/faridunwa/Documents/sample-erm/src/Erm.DataAccess/obj/Debug/net8.0/ref/Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.deps.json
+D:\mami\C#\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.AssemblyInfoInputs.cache
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.AssemblyInfo.cs
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.csproj.CoreCompileInputs.cache
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\refint\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.pdb
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\ref\Erm.DataAccess.dll
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.csproj.AssemblyReference.cache
+D:\mami\C#\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.runtimeconfig.json
+D:\mami\C#\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.genruntimeconfig.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.csproj.AssemblyReference.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.AssemblyInfoInputs.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.AssemblyInfo.cs
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.csproj.CoreCompileInputs.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.dll
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\refint\Erm.DataAccess.dll
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.pdb
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.deps.json
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.runtimeconfig.json
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.dll
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\bin\Debug\net8.0\Erm.DataAccess.pdb
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\Erm.DataAccess.genruntimeconfig.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.DataAccess\obj\Debug\net8.0\ref\Erm.DataAccess.dll

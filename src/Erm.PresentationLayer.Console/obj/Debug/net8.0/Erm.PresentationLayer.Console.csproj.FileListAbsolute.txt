@@ -1,0 +1,5 @@
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.PresentationLayer.Console\obj\Debug\net8.0\Erm.PresentationLayer.Console.csproj.AssemblyReference.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.PresentationLayer.Console\obj\Debug\net8.0\Erm.PresentationLayer.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.PresentationLayer.Console\obj\Debug\net8.0\Erm.PresentationLayer.Console.AssemblyInfoInputs.cache
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.PresentationLayer.Console\obj\Debug\net8.0\Erm.PresentationLayer.Console.AssemblyInfo.cs
+E:\Books\Coding Academy\45\sample-erm (5)\sample-erm\src\Erm.PresentationLayer.Console\obj\Debug\net8.0\Erm.PresentationLayer.Console.csproj.CoreCompileInputs.cache
